@@ -1,1 +1,1 @@
-le site exemle du cours
+le site exemple du cours

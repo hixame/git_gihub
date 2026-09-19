@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Guide Complet des Commandes Git
 
 > Référence rapide — de l'installation au déploiement
@@ -395,3 +396,6 @@ git switch -c rescue <hash>    # Le récupérer dans une nouvelle branche
 ---
 
 *Document généré le 19 septembre 2026 — Git v2.x*
+=======
+le site exemple du cours
+>>>>>>> d0509f2528efe31330c0209ab1c89e7a1f9ca4e6
